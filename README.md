@@ -20,3 +20,4 @@ Todo:
 - Make it play nice with default trash remover and conceal
 - User and Admin chat commands
 - Delay GPS based upon distance
+- Change settings to realistic values (currently 30 seconds for testing)
